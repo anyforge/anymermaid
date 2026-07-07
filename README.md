@@ -1,4 +1,9 @@
-# anymermaid
+# AnyMermaid
+
+<p align="center">
+    <a href="https://skillhub.cn/skills/anymermaid-skill" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/SkillHub-anymermaid-f39f37"></a>
+    <a href="https://www.modelscope.cn/skills/anyforge/anymermaid-skill" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/ModelScopeSkills-anymermaid-f39f37"></a>
+</p>
 
 <p align="center">
   <a href="README.md">English</a> | <a href="README_zh.md">简体中文</a>
